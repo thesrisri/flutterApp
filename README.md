@@ -2,6 +2,7 @@
 
 A new Flutter application.
 
+This flutter mobile app can be used for initiating chat with any Whatsapp user without actually saving their number and similarly for telegram using username.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
